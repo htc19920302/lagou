@@ -1,0 +1,59 @@
+#haslogin-center{
+	 position: relative;
+    width: 2.9rem;
+    height: 1.1rem;
+    margin-bottom: .1rem;
+    top: 0.1rem;
+    margin:0 auto;
+
+
+}
+#haslogin-center .resume{
+	position: absolute;
+    color: #00b38a;
+    font-size: 14px;
+    right: 0;
+}
+#haslogin-center .headcon{
+	 height: .8rem;
+    width: .8rem;
+    margin: 0 auto;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+   
+    overflow: hidden;
+    background-color: #f6f6f6;
+}
+  #haslogin-center .headpic{
+  	width: 0.8rem;
+    height: .8rem;
+  	margin:0 auto;
+  
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    }
+ #name{
+    text-align: center;    
+      font-size: 0.16rem;
+      color: #000;
+     height: .22rem;
+    line-height: .22rem;
+ }
+
+ #quit{
+ 	 
+    width: 2.90rem;
+    height: .40rem;
+    line-height: .40rem;
+    text-align:center;
+    background-color: #1fc8a1;
+    color: #fff;
+    font-size: 0.16rem;
+    margin-bottom: 10px;
+    margin:0 auto;
+    margin-top: 0.1rem;
+
+ }
+    

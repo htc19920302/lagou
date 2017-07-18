@@ -1,0 +1,45 @@
+#downLoad{
+  width:3.2rem;
+  height:0.6rem;
+  background-color:#000;
+  color:#fff;
+  opacity:0.8;
+  position:fixed;
+  bottom:45px;
+  left:0;
+  padding:0.12rem 0 0 0.07rem;
+}
+#downLoad img{
+  float:left;
+  height:0.36rem;
+}
+#downLoad img:nth-child(1){
+  width:0.36rem;
+}
+#downLoad img:nth-child(2){
+  width:1.58rem;
+  margin:0 0.21rem 0 0.07rem;
+}
+#downLoad img:nth-child(3){
+  width:0.84rem;
+}
+#downLoad .downLoadPic{
+    position:absolute;
+    width:0.44rem;
+    left:0.07rem;
+    top:-0.18rem;
+}
+#downLoad .close-btn{
+  width:0.32rem;
+  height:0.32rem;
+  position:absolute;
+  right:0.07rem;
+  top:-0.20rem;
+  background-color:#000;
+  border-radius:0.32rem;
+  padding:0.06rem;
+}
+#downLoad .close-btn img{
+  width:0.2rem;
+  height:0.2rem;
+}

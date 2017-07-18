@@ -1,0 +1,24 @@
+ #btns{
+	width: 2.9rem;
+	height: 1.92rem;
+	
+	margin:0 auto;
+	
+}
+  #btns p{
+	width: 48%;
+	height: 0.86rem;
+	line-height: 0.86rem;
+	text-align: center;
+	margin-top: 0.1rem;
+	font-size: 0.16rem;
+	background: #1fc8a1;
+	color: #fff;
+}
+#btns .btn-deliver,#btns .btn-Interview{
+	float:left;
+}
+
+#btns .btn-invite,#btns .btn-collect{
+	float: right;
+}
